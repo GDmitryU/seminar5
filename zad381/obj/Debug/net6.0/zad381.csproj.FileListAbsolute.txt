@@ -1,0 +1,15 @@
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar5\dz5\zad381\obj\Debug\net6.0\zad381.csproj.AssemblyReference.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar5\dz5\zad381\obj\Debug\net6.0\zad381.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar5\dz5\zad381\obj\Debug\net6.0\zad381.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar5\dz5\zad381\obj\Debug\net6.0\zad381.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar5\dz5\zad381\obj\Debug\net6.0\zad381.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar5\dz5\zad381\bin\Debug\net6.0\zad381.exe
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar5\dz5\zad381\bin\Debug\net6.0\zad381.deps.json
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar5\dz5\zad381\bin\Debug\net6.0\zad381.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar5\dz5\zad381\bin\Debug\net6.0\zad381.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar5\dz5\zad381\bin\Debug\net6.0\zad381.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar5\dz5\zad381\obj\Debug\net6.0\zad381.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar5\dz5\zad381\obj\Debug\net6.0\refint\zad381.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar5\dz5\zad381\obj\Debug\net6.0\zad381.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar5\dz5\zad381\obj\Debug\net6.0\zad381.genruntimeconfig.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar5\dz5\zad381\obj\Debug\net6.0\ref\zad381.dll
